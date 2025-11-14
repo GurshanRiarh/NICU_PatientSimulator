@@ -71,6 +71,7 @@ Follow these instructions to set up and run the simulation locally.
 4.  Run the Simulation:
     The simulator runs on a local Flask server, accessible via a web browser.
     * Ensure your virtual environment is active.
+    * Make sure that all paths in the dependant files are pointing to the right location (check csv files in other code files)
     * Execute the main simulation file:
         ```bash
         python Unhealthy_Version/Patient_Simulator_Unhealthy/UH_v25/GUI_Files/ExecuteSimulation.py

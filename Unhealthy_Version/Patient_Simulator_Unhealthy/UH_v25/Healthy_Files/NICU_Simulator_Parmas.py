@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 """
 NICU Simulator Parameters for Unhealthy Patients
 

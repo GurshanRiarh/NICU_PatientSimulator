@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 """
 Interactive Vital Signs Plotting Module
 

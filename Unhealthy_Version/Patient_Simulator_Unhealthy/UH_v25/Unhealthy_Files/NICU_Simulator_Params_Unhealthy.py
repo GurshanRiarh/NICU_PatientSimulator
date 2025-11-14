@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 """
 NICU Simulator Parameters and Synthetic Data Generation Module
 

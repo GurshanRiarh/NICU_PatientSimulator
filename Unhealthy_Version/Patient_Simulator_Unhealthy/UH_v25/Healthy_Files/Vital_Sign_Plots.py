@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 """
 Static Vital Signs Plotting Module
 

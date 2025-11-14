@@ -2,9 +2,9 @@
 
 ### Overview
 
-This repository hosts the Neonatal Intensive Care Unit (NICU) Patient Simulator, a sophisticated tool designed to generate realistic, synthetic physiological data and clinical scenarios for neonatal and preterm infants.
+This repository hosts the Neonatal Intensive Care Unit (NICU) Patient Simulator, a tool designed to generate realistic, synthetic physiological data and clinical scenarios for neonatal and preterm infants.
 
-The primary goal of this project is to provide a high-fidelity data source for research, algorithm development, and clinical scenario modeling in the field of neonatology. The simulator leverages Generative Adversarial Networks (GANs) to create data that accurately reflects both healthy and various pathological physiological states.
+The primary goal of this project is to provide a high-fidelity data source for research and algorithm development. The simulator leverages Generative Adversarial Networks (GANs) to create data that accurately reflects both healthy and various pathological physiological states.
 
 ---
 

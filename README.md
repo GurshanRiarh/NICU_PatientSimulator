@@ -1,4 +1,4 @@
-## NICU Patient Simulator: Generative Physiological Data
+## NICU Patient Simulator
 
 ### Overview
 

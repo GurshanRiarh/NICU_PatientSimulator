@@ -10,7 +10,7 @@ The primary goal of this project is to provide a high-fidelity data source for r
 
 ### Key Features
 
-* Synthetic Data Generation: Produces realistic time-series data for critical NICU vital signs, including Heart Rate (HR), Respiratory Rate (RR), Blood Pressure (BP), and Oxygen Saturation ($\text{SpO}_2$).
+* Synthetic Data Generation: Produces realistic time-series data for critical NICU vital signs, including Heart Rate (HR), Respiratory Rate (RR) along with Bradycaria and Tachyardia effects.
 * GAN-Powered Realism: Utilizes specialized GAN models (located in the `GAN_Codes` directory) to capture the complex statistical distributions and temporal dependencies present in real-world patient data.
 * Modular Architecture: Built using Python scripts and interactive Jupyter Notebooks, facilitating an environment optimized for research, data exploration, model training, and scenario customization.
 * Final Version Status: This repository represents the stable, culmination of development efforts, providing a reliable platform for simulation and testing.

@@ -1,0 +1,48 @@
+timestamp,intervention_type,intervention_detail
+2025-03-08 19:03:00,diaper change,Scheduled diaper change
+2025-03-08 19:03:00,position change,right lateral
+2025-03-08 19:23:00,pain management,swaddling
+2025-03-08 19:28:00,pain management,provide non-nutritive sucking
+2025-03-08 19:48:00,pain management,swaddling
+2025-03-08 19:53:00,pain management,provide non-nutritive sucking
+2025-03-08 19:58:00,family visitation,
+2025-03-08 19:58:00,pain management,swaddling
+2025-03-08 20:08:00,pain management,provide non-nutritive sucking
+2025-03-08 20:18:00,pain management,provide non-nutritive sucking
+2025-03-08 20:28:00,pain management,swaddling
+2025-03-08 21:03:00,pain management,swaddling
+2025-03-08 21:13:00,diaper change,
+2025-03-08 21:13:00,lighting adjustment,dim lights
+2025-03-08 21:13:00,pain management,swaddling
+2025-03-08 21:18:00,pain management,swaddling
+2025-03-08 21:38:00,position change,prone
+2025-03-08 22:03:00,diaper change,Scheduled diaper change
+2025-03-08 22:23:00,pain management,swaddling
+2025-03-08 22:38:00,pain management,provide non-nutritive sucking
+2025-03-08 22:58:00,pain management,swaddling
+2025-03-08 23:03:00,position change,right lateral
+2025-03-08 23:03:00,pain management,swaddling
+2025-03-08 23:18:00,pain management,swaddling
+2025-03-08 23:23:00,pain management,swaddling
+2025-03-08 23:33:00,pain management,provide non-nutritive sucking
+2025-03-08 23:38:00,pain management,provide non-nutritive sucking
+2025-03-09 00:03:00,pain management,provide non-nutritive sucking
+2025-03-09 00:08:00,pain management,swaddling
+2025-03-09 00:18:00,pain management,provide non-nutritive sucking
+2025-03-09 00:23:00,diaper change,
+2025-03-09 00:43:00,pain management,provide non-nutritive sucking
+2025-03-09 00:48:00,pain management,swaddling
+2025-03-09 00:53:00,lighting adjustment,reduce noise
+2025-03-09 01:03:00,diaper change,Scheduled diaper change
+2025-03-09 01:08:00,pain management,provide non-nutritive sucking
+2025-03-09 01:23:00,pain management,swaddling
+2025-03-09 01:28:00,pain management,provide non-nutritive sucking
+2025-03-09 01:33:00,pain management,swaddling
+2025-03-09 01:43:00,pain management,provide non-nutritive sucking
+2025-03-09 01:58:00,pain management,swaddling
+2025-03-09 02:13:00,pain management,swaddling
+2025-03-09 02:23:00,pain management,swaddling
+2025-03-09 02:43:00,oxygen administration,increase flow
+2025-03-09 02:43:00,pain management,provide non-nutritive sucking
+2025-03-09 02:58:00,position change,left lateral
+2025-03-09 02:58:00,pain management,provide non-nutritive sucking

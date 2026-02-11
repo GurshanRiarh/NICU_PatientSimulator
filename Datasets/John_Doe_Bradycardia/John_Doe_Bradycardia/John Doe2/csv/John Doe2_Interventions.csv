@@ -1,0 +1,11 @@
+timestamp,intervention_type,intervention_detail
+2025-03-08 16:36:00,diaper change,Scheduled diaper change
+2025-03-08 16:36:00,position change,supine
+2025-03-08 17:31:00,imaging,chest X-ray
+2025-03-08 17:36:00,family visitation,
+2025-03-08 19:36:00,diaper change,Scheduled diaper change
+2025-03-08 20:36:00,position change,left lateral
+2025-03-08 21:16:00,position change,right lateral
+2025-03-08 21:51:00,lighting adjustment,reduce noise
+2025-03-08 22:36:00,diaper change,Scheduled diaper change
+2025-03-08 23:06:00,pain management,provide non-nutritive sucking

@@ -1,0 +1,19 @@
+timestamp,intervention_type,intervention_detail
+2024-11-28 23:56:33,diaper change,Scheduled diaper change
+2024-11-28 23:56:33,position change,supine
+2024-11-28 23:56:33,pain management,swaddling
+2024-11-29 00:16:33,position change,left lateral
+2024-11-29 02:01:33,diaper change,
+2024-11-29 02:01:33,position change,supine
+2024-11-29 02:26:33,position change,left lateral
+2024-11-29 02:36:33,pain management,swaddling
+2024-11-29 02:56:33,diaper change,Scheduled diaper change
+2024-11-29 03:26:33,pain management,provide non-nutritive sucking
+2024-11-29 03:56:33,position change,supine
+2024-11-29 04:21:33,position change,right lateral
+2024-11-29 04:26:33,lighting adjustment,dim lights
+2024-11-29 04:51:33,oxygen administration,increase flow
+2024-11-29 05:56:33,diaper change,Scheduled diaper change
+2024-11-29 05:56:33,pain management,provide non-nutritive sucking
+2024-11-29 07:01:33,pain management,provide non-nutritive sucking
+2024-11-29 07:51:33,position change,left lateral

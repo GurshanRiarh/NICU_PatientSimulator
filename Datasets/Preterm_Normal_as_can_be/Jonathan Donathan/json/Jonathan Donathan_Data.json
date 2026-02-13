@@ -1,0 +1,1225 @@
+{
+    "patient_id": "Jonathan Donathan",
+    "Sex": "M",
+    "Post-Conceptual Age": "31/2 Weeks/Days",
+    "Weight": "2.5 kg",
+    "Conditions": [],
+    "data": [
+        {
+            "timestamp": "2025-03-14 13:12:00",
+            "vital_signs": {
+                "heart_rate": "129 bpm",
+                "respiratory_rate": "81 breaths/min",
+                "body_temperature": "37.1 °C",
+                "HR_Delta": null,
+                "RespRate_Delta": null,
+                "Temp_Delta": null
+            },
+            "pain_level": "Low",
+            "intervention": [
+                {
+                    "type": "diaper change",
+                    "detail": "Scheduled diaper change"
+                },
+                {
+                    "type": "position change",
+                    "detail": "left lateral"
+                }
+            ]
+        },
+        {
+            "timestamp": "2025-03-14 13:17:00",
+            "vital_signs": {
+                "heart_rate": "147 bpm",
+                "respiratory_rate": "58 breaths/min",
+                "body_temperature": "36.9 °C",
+                "HR_Delta": "17.8 Δ",
+                "RespRate_Delta": "23 Δ breaths/min",
+                "Temp_Delta": "0.2 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 13:22:00",
+            "vital_signs": {
+                "heart_rate": "128 bpm",
+                "respiratory_rate": "57 breaths/min",
+                "body_temperature": "37.1 °C",
+                "HR_Delta": "19.1 Δ",
+                "RespRate_Delta": "1 Δ breaths/min",
+                "Temp_Delta": "0.2 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 13:27:00",
+            "vital_signs": {
+                "heart_rate": "136 bpm",
+                "respiratory_rate": "70 breaths/min",
+                "body_temperature": "37.3 °C",
+                "HR_Delta": "7.6 Δ",
+                "RespRate_Delta": "13 Δ breaths/min",
+                "Temp_Delta": "0.2 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 13:32:00",
+            "vital_signs": {
+                "heart_rate": "131 bpm",
+                "respiratory_rate": "55 breaths/min",
+                "body_temperature": "37.3 °C",
+                "HR_Delta": "4.8 Δ",
+                "RespRate_Delta": "15 Δ breaths/min",
+                "Temp_Delta": "0.0 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 13:37:00",
+            "vital_signs": {
+                "heart_rate": "135 bpm",
+                "respiratory_rate": "76 breaths/min",
+                "body_temperature": "37.1 °C",
+                "HR_Delta": "4.5 Δ",
+                "RespRate_Delta": "21 Δ breaths/min",
+                "Temp_Delta": "0.2 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 13:42:00",
+            "vital_signs": {
+                "heart_rate": "130 bpm",
+                "respiratory_rate": "69 breaths/min",
+                "body_temperature": "36.7 °C",
+                "HR_Delta": "5.4 Δ",
+                "RespRate_Delta": "7 Δ breaths/min",
+                "Temp_Delta": "0.4 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 13:47:00",
+            "vital_signs": {
+                "heart_rate": "131 bpm",
+                "respiratory_rate": "84 breaths/min",
+                "body_temperature": "37.3 °C",
+                "HR_Delta": "0.7 Δ",
+                "RespRate_Delta": "15 Δ breaths/min",
+                "Temp_Delta": "0.6 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 13:52:00",
+            "vital_signs": {
+                "heart_rate": "133 bpm",
+                "respiratory_rate": "87 breaths/min",
+                "body_temperature": "36.6 °C",
+                "HR_Delta": "2.2 Δ",
+                "RespRate_Delta": "3 Δ breaths/min",
+                "Temp_Delta": "0.7 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 13:57:00",
+            "vital_signs": {
+                "heart_rate": "129 bpm",
+                "respiratory_rate": "56 breaths/min",
+                "body_temperature": "37.4 °C",
+                "HR_Delta": "4.3 Δ",
+                "RespRate_Delta": "31 Δ breaths/min",
+                "Temp_Delta": "0.8 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 14:02:00",
+            "vital_signs": {
+                "heart_rate": "141 bpm",
+                "respiratory_rate": "35 breaths/min",
+                "body_temperature": "36.7 °C",
+                "HR_Delta": "12.7 Δ",
+                "RespRate_Delta": "22 Δ breaths/min",
+                "Temp_Delta": "0.7 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 14:07:00",
+            "vital_signs": {
+                "heart_rate": "119 bpm",
+                "respiratory_rate": "33 breaths/min",
+                "body_temperature": "36.6 °C",
+                "HR_Delta": "22.2 Δ",
+                "RespRate_Delta": "2 Δ breaths/min",
+                "Temp_Delta": "0.1 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 14:12:00",
+            "vital_signs": {
+                "heart_rate": "149 bpm",
+                "respiratory_rate": "41 breaths/min",
+                "body_temperature": "37.1 °C",
+                "HR_Delta": "29.4 Δ",
+                "RespRate_Delta": "8 Δ breaths/min",
+                "Temp_Delta": "0.5 °C"
+            },
+            "pain_level": "Low",
+            "intervention": [
+                {
+                    "type": "family visitation",
+                    "detail": null
+                }
+            ]
+        },
+        {
+            "timestamp": "2025-03-14 14:17:00",
+            "vital_signs": {
+                "heart_rate": "128 bpm",
+                "respiratory_rate": "78 breaths/min",
+                "body_temperature": "37.3 °C",
+                "HR_Delta": "20.1 Δ",
+                "RespRate_Delta": "37 Δ breaths/min",
+                "Temp_Delta": "0.2 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 14:22:00",
+            "vital_signs": {
+                "heart_rate": "138 bpm",
+                "respiratory_rate": "75 breaths/min",
+                "body_temperature": "37.1 °C",
+                "HR_Delta": "9.2 Δ",
+                "RespRate_Delta": "3 Δ breaths/min",
+                "Temp_Delta": "0.2 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 14:27:00",
+            "vital_signs": {
+                "heart_rate": "132 bpm",
+                "respiratory_rate": "46 breaths/min",
+                "body_temperature": "36.8 °C",
+                "HR_Delta": "5.5 Δ",
+                "RespRate_Delta": "29 Δ breaths/min",
+                "Temp_Delta": "0.3 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 14:32:00",
+            "vital_signs": {
+                "heart_rate": "144 bpm",
+                "respiratory_rate": "57 breaths/min",
+                "body_temperature": "36.8 °C",
+                "HR_Delta": "11.3 Δ",
+                "RespRate_Delta": "11 Δ breaths/min",
+                "Temp_Delta": "0.0 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 14:37:00",
+            "vital_signs": {
+                "heart_rate": "138 bpm",
+                "respiratory_rate": "37 breaths/min",
+                "body_temperature": "37.0 °C",
+                "HR_Delta": "5.1 Δ",
+                "RespRate_Delta": "20 Δ breaths/min",
+                "Temp_Delta": "0.2 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 14:42:00",
+            "vital_signs": {
+                "heart_rate": "128 bpm",
+                "respiratory_rate": "37 breaths/min",
+                "body_temperature": "37.1 °C",
+                "HR_Delta": "10.6 Δ",
+                "RespRate_Delta": "0 Δ breaths/min",
+                "Temp_Delta": "0.1 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 14:47:00",
+            "vital_signs": {
+                "heart_rate": "143 bpm",
+                "respiratory_rate": "64 breaths/min",
+                "body_temperature": "37.3 °C",
+                "HR_Delta": "15.4 Δ",
+                "RespRate_Delta": "27 Δ breaths/min",
+                "Temp_Delta": "0.2 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 14:52:00",
+            "vital_signs": {
+                "heart_rate": "136 bpm",
+                "respiratory_rate": "69 breaths/min",
+                "body_temperature": "36.7 °C",
+                "HR_Delta": "7.4 Δ",
+                "RespRate_Delta": "6 Δ breaths/min",
+                "Temp_Delta": "0.6 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 14:57:00",
+            "vital_signs": {
+                "heart_rate": "140 bpm",
+                "respiratory_rate": "45 breaths/min",
+                "body_temperature": "37.1 °C",
+                "HR_Delta": "4.5 Δ",
+                "RespRate_Delta": "24 Δ breaths/min",
+                "Temp_Delta": "0.4 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 15:02:00",
+            "vital_signs": {
+                "heart_rate": "134 bpm",
+                "respiratory_rate": "65 breaths/min",
+                "body_temperature": "37.1 °C",
+                "HR_Delta": "6.5 Δ",
+                "RespRate_Delta": "20 Δ breaths/min",
+                "Temp_Delta": "0.0 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 15:07:00",
+            "vital_signs": {
+                "heart_rate": "131 bpm",
+                "respiratory_rate": "76 breaths/min",
+                "body_temperature": "37.2 °C",
+                "HR_Delta": "2.8 Δ",
+                "RespRate_Delta": "11 Δ breaths/min",
+                "Temp_Delta": "0.1 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 15:12:00",
+            "vital_signs": {
+                "heart_rate": "130 bpm",
+                "respiratory_rate": "83 breaths/min",
+                "body_temperature": "36.7 °C",
+                "HR_Delta": "0.3 Δ",
+                "RespRate_Delta": "7 Δ breaths/min",
+                "Temp_Delta": "0.5 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 15:17:00",
+            "vital_signs": {
+                "heart_rate": "141 bpm",
+                "respiratory_rate": "78 breaths/min",
+                "body_temperature": "36.9 °C",
+                "HR_Delta": "10.1 Δ",
+                "RespRate_Delta": "5 Δ breaths/min",
+                "Temp_Delta": "0.2 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 15:22:00",
+            "vital_signs": {
+                "heart_rate": "128 bpm",
+                "respiratory_rate": "47 breaths/min",
+                "body_temperature": "36.7 °C",
+                "HR_Delta": "12.5 Δ",
+                "RespRate_Delta": "31 Δ breaths/min",
+                "Temp_Delta": "0.2 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 15:27:00",
+            "vital_signs": {
+                "heart_rate": "128 bpm",
+                "respiratory_rate": "69 breaths/min",
+                "body_temperature": "36.6 °C",
+                "HR_Delta": "0.3 Δ",
+                "RespRate_Delta": "22 Δ breaths/min",
+                "Temp_Delta": "0.1 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 15:32:00",
+            "vital_signs": {
+                "heart_rate": "121 bpm",
+                "respiratory_rate": "86 breaths/min",
+                "body_temperature": "37.1 °C",
+                "HR_Delta": "6.2 Δ",
+                "RespRate_Delta": "17 Δ breaths/min",
+                "Temp_Delta": "0.5 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 15:37:00",
+            "vital_signs": {
+                "heart_rate": "130 bpm",
+                "respiratory_rate": "66 breaths/min",
+                "body_temperature": "37.0 °C",
+                "HR_Delta": "8.2 Δ",
+                "RespRate_Delta": "20 Δ breaths/min",
+                "Temp_Delta": "0.1 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 15:42:00",
+            "vital_signs": {
+                "heart_rate": "146 bpm",
+                "respiratory_rate": "37 breaths/min",
+                "body_temperature": "36.6 °C",
+                "HR_Delta": "16.3 Δ",
+                "RespRate_Delta": "30 Δ breaths/min",
+                "Temp_Delta": "0.4 °C"
+            },
+            "pain_level": "Low",
+            "intervention": [
+                {
+                    "type": "position change",
+                    "detail": "prone"
+                }
+            ]
+        },
+        {
+            "timestamp": "2025-03-14 15:47:00",
+            "vital_signs": {
+                "heart_rate": "125 bpm",
+                "respiratory_rate": "39 breaths/min",
+                "body_temperature": "37.3 °C",
+                "HR_Delta": "20.9 Δ",
+                "RespRate_Delta": "2 Δ breaths/min",
+                "Temp_Delta": "0.7 °C"
+            },
+            "pain_level": "Low",
+            "intervention": [
+                {
+                    "type": "position change",
+                    "detail": "left lateral"
+                }
+            ]
+        },
+        {
+            "timestamp": "2025-03-14 15:52:00",
+            "vital_signs": {
+                "heart_rate": "128 bpm",
+                "respiratory_rate": "78 breaths/min",
+                "body_temperature": "36.7 °C",
+                "HR_Delta": "3.3 Δ",
+                "RespRate_Delta": "38 Δ breaths/min",
+                "Temp_Delta": "0.6 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 15:57:00",
+            "vital_signs": {
+                "heart_rate": "127 bpm",
+                "respiratory_rate": "84 breaths/min",
+                "body_temperature": "36.9 °C",
+                "HR_Delta": "1.1 Δ",
+                "RespRate_Delta": "7 Δ breaths/min",
+                "Temp_Delta": "0.2 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 16:02:00",
+            "vital_signs": {
+                "heart_rate": "129 bpm",
+                "respiratory_rate": "49 breaths/min",
+                "body_temperature": "36.6 °C",
+                "HR_Delta": "1.6 Δ",
+                "RespRate_Delta": "36 Δ breaths/min",
+                "Temp_Delta": "0.3 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 16:07:00",
+            "vital_signs": {
+                "heart_rate": "141 bpm",
+                "respiratory_rate": "56 breaths/min",
+                "body_temperature": "37.3 °C",
+                "HR_Delta": "11.5 Δ",
+                "RespRate_Delta": "8 Δ breaths/min",
+                "Temp_Delta": "0.7 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 16:12:00",
+            "vital_signs": {
+                "heart_rate": "139 bpm",
+                "respiratory_rate": "44 breaths/min",
+                "body_temperature": "37.0 °C",
+                "HR_Delta": "1.7 Δ",
+                "RespRate_Delta": "12 Δ breaths/min",
+                "Temp_Delta": "0.3 °C"
+            },
+            "pain_level": "Low",
+            "intervention": [
+                {
+                    "type": "diaper change",
+                    "detail": "Scheduled diaper change"
+                }
+            ]
+        },
+        {
+            "timestamp": "2025-03-14 16:17:00",
+            "vital_signs": {
+                "heart_rate": "139 bpm",
+                "respiratory_rate": "63 breaths/min",
+                "body_temperature": "36.7 °C",
+                "HR_Delta": "0.1 Δ",
+                "RespRate_Delta": "19 Δ breaths/min",
+                "Temp_Delta": "0.3 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 16:22:00",
+            "vital_signs": {
+                "heart_rate": "139 bpm",
+                "respiratory_rate": "70 breaths/min",
+                "body_temperature": "36.9 °C",
+                "HR_Delta": "0.3 Δ",
+                "RespRate_Delta": "7 Δ breaths/min",
+                "Temp_Delta": "0.2 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 16:27:00",
+            "vital_signs": {
+                "heart_rate": "129 bpm",
+                "respiratory_rate": "76 breaths/min",
+                "body_temperature": "36.6 °C",
+                "HR_Delta": "9.6 Δ",
+                "RespRate_Delta": "6 Δ breaths/min",
+                "Temp_Delta": "0.3 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 16:32:00",
+            "vital_signs": {
+                "heart_rate": "140 bpm",
+                "respiratory_rate": "51 breaths/min",
+                "body_temperature": "37.4 °C",
+                "HR_Delta": "10.7 Δ",
+                "RespRate_Delta": "25 Δ breaths/min",
+                "Temp_Delta": "0.8 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 16:37:00",
+            "vital_signs": {
+                "heart_rate": "134 bpm",
+                "respiratory_rate": "41 breaths/min",
+                "body_temperature": "36.9 °C",
+                "HR_Delta": "5.8 Δ",
+                "RespRate_Delta": "10 Δ breaths/min",
+                "Temp_Delta": "0.5 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 16:42:00",
+            "vital_signs": {
+                "heart_rate": "142 bpm",
+                "respiratory_rate": "65 breaths/min",
+                "body_temperature": "36.7 °C",
+                "HR_Delta": "8.4 Δ",
+                "RespRate_Delta": "24 Δ breaths/min",
+                "Temp_Delta": "0.2 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 16:47:00",
+            "vital_signs": {
+                "heart_rate": "129 bpm",
+                "respiratory_rate": "67 breaths/min",
+                "body_temperature": "37.3 °C",
+                "HR_Delta": "12.9 Δ",
+                "RespRate_Delta": "2 Δ breaths/min",
+                "Temp_Delta": "0.6 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 16:52:00",
+            "vital_signs": {
+                "heart_rate": "128 bpm",
+                "respiratory_rate": "80 breaths/min",
+                "body_temperature": "37.0 °C",
+                "HR_Delta": "1.1 Δ",
+                "RespRate_Delta": "12 Δ breaths/min",
+                "Temp_Delta": "0.3 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 16:57:00",
+            "vital_signs": {
+                "heart_rate": "133 bpm",
+                "respiratory_rate": "63 breaths/min",
+                "body_temperature": "36.7 °C",
+                "HR_Delta": "4.7 Δ",
+                "RespRate_Delta": "17 Δ breaths/min",
+                "Temp_Delta": "0.3 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 17:02:00",
+            "vital_signs": {
+                "heart_rate": "146 bpm",
+                "respiratory_rate": "62 breaths/min",
+                "body_temperature": "37.4 °C",
+                "HR_Delta": "12.6 Δ",
+                "RespRate_Delta": "2 Δ breaths/min",
+                "Temp_Delta": "0.7 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 17:07:00",
+            "vital_signs": {
+                "heart_rate": "150 bpm",
+                "respiratory_rate": "45 breaths/min",
+                "body_temperature": "36.6 °C",
+                "HR_Delta": "4.1 Δ",
+                "RespRate_Delta": "17 Δ breaths/min",
+                "Temp_Delta": "0.8 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 17:12:00",
+            "vital_signs": {
+                "heart_rate": "125 bpm",
+                "respiratory_rate": "59 breaths/min",
+                "body_temperature": "37.3 °C",
+                "HR_Delta": "25.0 Δ",
+                "RespRate_Delta": "14 Δ breaths/min",
+                "Temp_Delta": "0.7 °C"
+            },
+            "pain_level": "Low",
+            "intervention": [
+                {
+                    "type": "position change",
+                    "detail": "right lateral"
+                }
+            ]
+        },
+        {
+            "timestamp": "2025-03-14 17:17:00",
+            "vital_signs": {
+                "heart_rate": "135 bpm",
+                "respiratory_rate": "39 breaths/min",
+                "body_temperature": "37.1 °C",
+                "HR_Delta": "10.6 Δ",
+                "RespRate_Delta": "20 Δ breaths/min",
+                "Temp_Delta": "0.2 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 17:22:00",
+            "vital_signs": {
+                "heart_rate": "137 bpm",
+                "respiratory_rate": "37 breaths/min",
+                "body_temperature": "36.9 °C",
+                "HR_Delta": "1.1 Δ",
+                "RespRate_Delta": "2 Δ breaths/min",
+                "Temp_Delta": "0.2 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 17:27:00",
+            "vital_signs": {
+                "heart_rate": "141 bpm",
+                "respiratory_rate": "59 breaths/min",
+                "body_temperature": "37.4 °C",
+                "HR_Delta": "4.5 Δ",
+                "RespRate_Delta": "22 Δ breaths/min",
+                "Temp_Delta": "0.5 °C"
+            },
+            "pain_level": "Low",
+            "intervention": [
+                {
+                    "type": "family visitation",
+                    "detail": null
+                }
+            ]
+        },
+        {
+            "timestamp": "2025-03-14 17:32:00",
+            "vital_signs": {
+                "heart_rate": "144 bpm",
+                "respiratory_rate": "72 breaths/min",
+                "body_temperature": "36.6 °C",
+                "HR_Delta": "3.0 Δ",
+                "RespRate_Delta": "13 Δ breaths/min",
+                "Temp_Delta": "0.8 °C"
+            },
+            "pain_level": "Low",
+            "intervention": [
+                {
+                    "type": "diaper change",
+                    "detail": null
+                }
+            ]
+        },
+        {
+            "timestamp": "2025-03-14 17:37:00",
+            "vital_signs": {
+                "heart_rate": "127 bpm",
+                "respiratory_rate": "83 breaths/min",
+                "body_temperature": "37.4 °C",
+                "HR_Delta": "16.8 Δ",
+                "RespRate_Delta": "11 Δ breaths/min",
+                "Temp_Delta": "0.8 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 17:42:00",
+            "vital_signs": {
+                "heart_rate": "133 bpm",
+                "respiratory_rate": "74 breaths/min",
+                "body_temperature": "36.9 °C",
+                "HR_Delta": "6.1 Δ",
+                "RespRate_Delta": "8 Δ breaths/min",
+                "Temp_Delta": "0.5 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 17:47:00",
+            "vital_signs": {
+                "heart_rate": "133 bpm",
+                "respiratory_rate": "58 breaths/min",
+                "body_temperature": "37.2 °C",
+                "HR_Delta": "0.9 Δ",
+                "RespRate_Delta": "16 Δ breaths/min",
+                "Temp_Delta": "0.3 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 17:52:00",
+            "vital_signs": {
+                "heart_rate": "124 bpm",
+                "respiratory_rate": "70 breaths/min",
+                "body_temperature": "37.2 °C",
+                "HR_Delta": "8.1 Δ",
+                "RespRate_Delta": "12 Δ breaths/min",
+                "Temp_Delta": "0.0 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 17:57:00",
+            "vital_signs": {
+                "heart_rate": "139 bpm",
+                "respiratory_rate": "74 breaths/min",
+                "body_temperature": "36.7 °C",
+                "HR_Delta": "14.8 Δ",
+                "RespRate_Delta": "4 Δ breaths/min",
+                "Temp_Delta": "0.5 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 18:02:00",
+            "vital_signs": {
+                "heart_rate": "138 bpm",
+                "respiratory_rate": "83 breaths/min",
+                "body_temperature": "37.1 °C",
+                "HR_Delta": "1.1 Δ",
+                "RespRate_Delta": "9 Δ breaths/min",
+                "Temp_Delta": "0.4 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 18:07:00",
+            "vital_signs": {
+                "heart_rate": "131 bpm",
+                "respiratory_rate": "52 breaths/min",
+                "body_temperature": "37.0 °C",
+                "HR_Delta": "7.1 Δ",
+                "RespRate_Delta": "31 Δ breaths/min",
+                "Temp_Delta": "0.1 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 18:12:00",
+            "vital_signs": {
+                "heart_rate": "128 bpm",
+                "respiratory_rate": "74 breaths/min",
+                "body_temperature": "37.2 °C",
+                "HR_Delta": "3.4 Δ",
+                "RespRate_Delta": "23 Δ breaths/min",
+                "Temp_Delta": "0.2 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 18:17:00",
+            "vital_signs": {
+                "heart_rate": "147 bpm",
+                "respiratory_rate": "71 breaths/min",
+                "body_temperature": "37.2 °C",
+                "HR_Delta": "19.5 Δ",
+                "RespRate_Delta": "3 Δ breaths/min",
+                "Temp_Delta": "0.0 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 18:22:00",
+            "vital_signs": {
+                "heart_rate": "129 bpm",
+                "respiratory_rate": "50 breaths/min",
+                "body_temperature": "36.8 °C",
+                "HR_Delta": "18.1 Δ",
+                "RespRate_Delta": "21 Δ breaths/min",
+                "Temp_Delta": "0.4 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 18:27:00",
+            "vital_signs": {
+                "heart_rate": "136 bpm",
+                "respiratory_rate": "65 breaths/min",
+                "body_temperature": "36.8 °C",
+                "HR_Delta": "7.1 Δ",
+                "RespRate_Delta": "15 Δ breaths/min",
+                "Temp_Delta": "0.0 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 18:32:00",
+            "vital_signs": {
+                "heart_rate": "127 bpm",
+                "respiratory_rate": "61 breaths/min",
+                "body_temperature": "37.1 °C",
+                "HR_Delta": "9.1 Δ",
+                "RespRate_Delta": "4 Δ breaths/min",
+                "Temp_Delta": "0.3 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 18:37:00",
+            "vital_signs": {
+                "heart_rate": "137 bpm",
+                "respiratory_rate": "43 breaths/min",
+                "body_temperature": "37.3 °C",
+                "HR_Delta": "10.0 Δ",
+                "RespRate_Delta": "18 Δ breaths/min",
+                "Temp_Delta": "0.2 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 18:42:00",
+            "vital_signs": {
+                "heart_rate": "141 bpm",
+                "respiratory_rate": "62 breaths/min",
+                "body_temperature": "36.8 °C",
+                "HR_Delta": "4.3 Δ",
+                "RespRate_Delta": "18 Δ breaths/min",
+                "Temp_Delta": "0.5 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 18:47:00",
+            "vital_signs": {
+                "heart_rate": "131 bpm",
+                "respiratory_rate": "56 breaths/min",
+                "body_temperature": "36.8 °C",
+                "HR_Delta": "10.8 Δ",
+                "RespRate_Delta": "6 Δ breaths/min",
+                "Temp_Delta": "0.0 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 18:52:00",
+            "vital_signs": {
+                "heart_rate": "130 bpm",
+                "respiratory_rate": "39 breaths/min",
+                "body_temperature": "36.6 °C",
+                "HR_Delta": "0.7 Δ",
+                "RespRate_Delta": "17 Δ breaths/min",
+                "Temp_Delta": "0.2 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 18:57:00",
+            "vital_signs": {
+                "heart_rate": "130 bpm",
+                "respiratory_rate": "42 breaths/min",
+                "body_temperature": "36.8 °C",
+                "HR_Delta": "0.0 Δ",
+                "RespRate_Delta": "3 Δ breaths/min",
+                "Temp_Delta": "0.2 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 19:02:00",
+            "vital_signs": {
+                "heart_rate": "148 bpm",
+                "respiratory_rate": "67 breaths/min",
+                "body_temperature": "37.1 °C",
+                "HR_Delta": "18.5 Δ",
+                "RespRate_Delta": "25 Δ breaths/min",
+                "Temp_Delta": "0.3 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 19:07:00",
+            "vital_signs": {
+                "heart_rate": "143 bpm",
+                "respiratory_rate": "85 breaths/min",
+                "body_temperature": "36.7 °C",
+                "HR_Delta": "5.6 Δ",
+                "RespRate_Delta": "17 Δ breaths/min",
+                "Temp_Delta": "0.4 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 19:12:00",
+            "vital_signs": {
+                "heart_rate": "126 bpm",
+                "respiratory_rate": "75 breaths/min",
+                "body_temperature": "37.1 °C",
+                "HR_Delta": "16.8 Δ",
+                "RespRate_Delta": "10 Δ breaths/min",
+                "Temp_Delta": "0.4 °C"
+            },
+            "pain_level": "Low",
+            "intervention": [
+                {
+                    "type": "diaper change",
+                    "detail": "Scheduled diaper change"
+                }
+            ]
+        },
+        {
+            "timestamp": "2025-03-14 19:17:00",
+            "vital_signs": {
+                "heart_rate": "130 bpm",
+                "respiratory_rate": "53 breaths/min",
+                "body_temperature": "37.2 °C",
+                "HR_Delta": "4.3 Δ",
+                "RespRate_Delta": "22 Δ breaths/min",
+                "Temp_Delta": "0.1 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 19:22:00",
+            "vital_signs": {
+                "heart_rate": "132 bpm",
+                "respiratory_rate": "43 breaths/min",
+                "body_temperature": "37.0 °C",
+                "HR_Delta": "1.5 Δ",
+                "RespRate_Delta": "9 Δ breaths/min",
+                "Temp_Delta": "0.2 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 19:27:00",
+            "vital_signs": {
+                "heart_rate": "130 bpm",
+                "respiratory_rate": "79 breaths/min",
+                "body_temperature": "36.7 °C",
+                "HR_Delta": "2.0 Δ",
+                "RespRate_Delta": "36 Δ breaths/min",
+                "Temp_Delta": "0.3 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 19:32:00",
+            "vital_signs": {
+                "heart_rate": "147 bpm",
+                "respiratory_rate": "94 breaths/min",
+                "body_temperature": "36.6 °C",
+                "HR_Delta": "16.9 Δ",
+                "RespRate_Delta": "15 Δ breaths/min",
+                "Temp_Delta": "0.1 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 19:37:00",
+            "vital_signs": {
+                "heart_rate": "126 bpm",
+                "respiratory_rate": "82 breaths/min",
+                "body_temperature": "36.8 °C",
+                "HR_Delta": "21.1 Δ",
+                "RespRate_Delta": "12 Δ breaths/min",
+                "Temp_Delta": "0.2 °C"
+            },
+            "pain_level": "Low",
+            "intervention": [
+                {
+                    "type": "position change",
+                    "detail": "left lateral"
+                }
+            ]
+        },
+        {
+            "timestamp": "2025-03-14 19:42:00",
+            "vital_signs": {
+                "heart_rate": "148 bpm",
+                "respiratory_rate": "78 breaths/min",
+                "body_temperature": "37.3 °C",
+                "HR_Delta": "22.8 Δ",
+                "RespRate_Delta": "4 Δ breaths/min",
+                "Temp_Delta": "0.5 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 19:47:00",
+            "vital_signs": {
+                "heart_rate": "138 bpm",
+                "respiratory_rate": "69 breaths/min",
+                "body_temperature": "37.0 °C",
+                "HR_Delta": "10.6 Δ",
+                "RespRate_Delta": "9 Δ breaths/min",
+                "Temp_Delta": "0.3 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 19:52:00",
+            "vital_signs": {
+                "heart_rate": "130 bpm",
+                "respiratory_rate": "49 breaths/min",
+                "body_temperature": "37.1 °C",
+                "HR_Delta": "7.3 Δ",
+                "RespRate_Delta": "21 Δ breaths/min",
+                "Temp_Delta": "0.1 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 19:57:00",
+            "vital_signs": {
+                "heart_rate": "132 bpm",
+                "respiratory_rate": "60 breaths/min",
+                "body_temperature": "36.8 °C",
+                "HR_Delta": "1.8 Δ",
+                "RespRate_Delta": "12 Δ breaths/min",
+                "Temp_Delta": "0.3 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 20:02:00",
+            "vital_signs": {
+                "heart_rate": "131 bpm",
+                "respiratory_rate": "70 breaths/min",
+                "body_temperature": "37.3 °C",
+                "HR_Delta": "1.6 Δ",
+                "RespRate_Delta": "9 Δ breaths/min",
+                "Temp_Delta": "0.5 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 20:07:00",
+            "vital_signs": {
+                "heart_rate": "127 bpm",
+                "respiratory_rate": "81 breaths/min",
+                "body_temperature": "37.2 °C",
+                "HR_Delta": "3.1 Δ",
+                "RespRate_Delta": "11 Δ breaths/min",
+                "Temp_Delta": "0.1 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 20:12:00",
+            "vital_signs": {
+                "heart_rate": "147 bpm",
+                "respiratory_rate": "76 breaths/min",
+                "body_temperature": "37.4 °C",
+                "HR_Delta": "19.9 Δ",
+                "RespRate_Delta": "5 Δ breaths/min",
+                "Temp_Delta": "0.2 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 20:17:00",
+            "vital_signs": {
+                "heart_rate": "140 bpm",
+                "respiratory_rate": "71 breaths/min",
+                "body_temperature": "36.7 °C",
+                "HR_Delta": "7.1 Δ",
+                "RespRate_Delta": "4 Δ breaths/min",
+                "Temp_Delta": "0.7 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 20:22:00",
+            "vital_signs": {
+                "heart_rate": "146 bpm",
+                "respiratory_rate": "50 breaths/min",
+                "body_temperature": "37.2 °C",
+                "HR_Delta": "6.0 Δ",
+                "RespRate_Delta": "21 Δ breaths/min",
+                "Temp_Delta": "0.5 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 20:27:00",
+            "vital_signs": {
+                "heart_rate": "136 bpm",
+                "respiratory_rate": "83 breaths/min",
+                "body_temperature": "37.1 °C",
+                "HR_Delta": "10.6 Δ",
+                "RespRate_Delta": "33 Δ breaths/min",
+                "Temp_Delta": "0.1 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 20:32:00",
+            "vital_signs": {
+                "heart_rate": "130 bpm",
+                "respiratory_rate": "78 breaths/min",
+                "body_temperature": "37.2 °C",
+                "HR_Delta": "5.5 Δ",
+                "RespRate_Delta": "5 Δ breaths/min",
+                "Temp_Delta": "0.1 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 20:37:00",
+            "vital_signs": {
+                "heart_rate": "129 bpm",
+                "respiratory_rate": "84 breaths/min",
+                "body_temperature": "37.1 °C",
+                "HR_Delta": "1.5 Δ",
+                "RespRate_Delta": "5 Δ breaths/min",
+                "Temp_Delta": "0.1 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 20:42:00",
+            "vital_signs": {
+                "heart_rate": "138 bpm",
+                "respiratory_rate": "84 breaths/min",
+                "body_temperature": "37.4 °C",
+                "HR_Delta": "8.9 Δ",
+                "RespRate_Delta": "0 Δ breaths/min",
+                "Temp_Delta": "0.3 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 20:47:00",
+            "vital_signs": {
+                "heart_rate": "128 bpm",
+                "respiratory_rate": "65 breaths/min",
+                "body_temperature": "37.2 °C",
+                "HR_Delta": "9.5 Δ",
+                "RespRate_Delta": "19 Δ breaths/min",
+                "Temp_Delta": "0.2 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 20:52:00",
+            "vital_signs": {
+                "heart_rate": "130 bpm",
+                "respiratory_rate": "42 breaths/min",
+                "body_temperature": "36.7 °C",
+                "HR_Delta": "1.4 Δ",
+                "RespRate_Delta": "22 Δ breaths/min",
+                "Temp_Delta": "0.5 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 20:57:00",
+            "vital_signs": {
+                "heart_rate": "126 bpm",
+                "respiratory_rate": "64 breaths/min",
+                "body_temperature": "37.3 °C",
+                "HR_Delta": "3.5 Δ",
+                "RespRate_Delta": "22 Δ breaths/min",
+                "Temp_Delta": "0.6 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 21:02:00",
+            "vital_signs": {
+                "heart_rate": "129 bpm",
+                "respiratory_rate": "90 breaths/min",
+                "body_temperature": "36.8 °C",
+                "HR_Delta": "2.7 Δ",
+                "RespRate_Delta": "26 Δ breaths/min",
+                "Temp_Delta": "0.5 °C"
+            },
+            "pain_level": "Low"
+        },
+        {
+            "timestamp": "2025-03-14 21:07:00",
+            "vital_signs": {
+                "heart_rate": "129 bpm",
+                "respiratory_rate": "99 breaths/min",
+                "body_temperature": "36.6 °C",
+                "HR_Delta": "0.4 Δ",
+                "RespRate_Delta": "9 Δ breaths/min",
+                "Temp_Delta": "0.2 °C"
+            },
+            "pain_level": "Low"
+        }
+    ]
+}

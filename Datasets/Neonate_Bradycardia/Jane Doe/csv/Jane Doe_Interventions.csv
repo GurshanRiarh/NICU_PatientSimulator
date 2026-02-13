@@ -1,0 +1,11 @@
+timestamp,intervention_type,intervention_detail
+2025-03-15 15:30:00,diaper change,Scheduled diaper change
+2025-03-15 15:30:00,position change,right lateral
+2025-03-15 18:30:00,diaper change,Scheduled diaper change
+2025-03-15 19:00:00,imaging,chest X-ray
+2025-03-15 19:30:00,position change,left lateral
+2025-03-15 20:15:00,position change,right lateral
+2025-03-15 21:00:00,oxygen administration,increase flow
+2025-03-15 21:25:00,position change,supine
+2025-03-15 21:30:00,diaper change,Scheduled diaper change
+2025-03-15 22:15:00,position change,left lateral

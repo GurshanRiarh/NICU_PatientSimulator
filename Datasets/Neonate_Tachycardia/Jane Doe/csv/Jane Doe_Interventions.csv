@@ -1,0 +1,16 @@
+timestamp,intervention_type,intervention_detail
+2025-03-14 22:30:00,diaper change,Scheduled diaper change
+2025-03-14 22:30:00,position change,supine
+2025-03-14 22:35:00,position change,prone
+2025-03-14 22:40:00,oxygen administration,increase flow
+2025-03-14 22:55:00,diaper change,
+2025-03-15 00:40:00,position change,right lateral
+2025-03-15 01:20:00,position change,left lateral
+2025-03-15 01:30:00,diaper change,Scheduled diaper change
+2025-03-15 02:10:00,diaper change,
+2025-03-15 02:15:00,oxygen administration,adjust FiO2
+2025-03-15 02:30:00,position change,prone
+2025-03-15 02:35:00,position change,supine
+2025-03-15 03:45:00,position change,right lateral
+2025-03-15 04:30:00,diaper change,Scheduled diaper change
+2025-03-15 06:25:00,position change,prone

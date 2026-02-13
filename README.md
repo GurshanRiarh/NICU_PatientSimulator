@@ -127,6 +127,7 @@ The `GAN_Codes` directory contains the training modules and data for the generat
 #### Patient Data Generated for the Manuscript
 
 Simulated vital sign and discrete clinical care/intervention events are provided for several simulated patients in the `Datasets` sub-directory.
+
 ---
 
 ### License

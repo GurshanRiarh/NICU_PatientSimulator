@@ -1,0 +1,15 @@
+timestamp,intervention_type,intervention_detail
+2025-03-15 15:00:00,diaper change,Scheduled diaper change
+2025-03-15 15:00:00,position change,left lateral
+2025-03-15 15:05:00,position change,right lateral
+2025-03-15 16:00:00,position change,left lateral
+2025-03-15 16:40:00,position change,prone
+2025-03-15 17:00:00,family visitation,
+2025-03-15 18:00:00,diaper change,Scheduled diaper change
+2025-03-15 18:05:00,position change,supine
+2025-03-15 18:10:00,diaper change,
+2025-03-15 19:00:00,position change,prone
+2025-03-15 20:05:00,position change,right lateral
+2025-03-15 21:00:00,diaper change,Scheduled diaper change
+2025-03-15 21:15:00,position change,left lateral
+2025-03-15 22:55:00,position change,prone

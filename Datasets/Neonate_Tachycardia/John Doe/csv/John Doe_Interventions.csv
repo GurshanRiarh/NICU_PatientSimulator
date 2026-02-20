@@ -1,0 +1,15 @@
+timestamp,intervention_type,intervention_detail
+2025-03-14 13:51:00,diaper change,Scheduled diaper change
+2025-03-14 13:51:00,position change,prone
+2025-03-14 14:11:00,position change,supine
+2025-03-14 15:16:00,position change,left lateral
+2025-03-14 16:36:00,diaper change,
+2025-03-14 16:51:00,diaper change,Scheduled diaper change
+2025-03-14 17:11:00,lab test,electrolyte panel
+2025-03-14 17:16:00,lighting adjustment,dim lights
+2025-03-14 17:51:00,position change,prone
+2025-03-14 18:46:00,position change,supine
+2025-03-14 19:11:00,oxygen administration,adjust FiO2
+2025-03-14 19:36:00,family visitation,
+2025-03-14 19:51:00,diaper change,Scheduled diaper change
+2025-03-14 21:36:00,position change,right lateral

@@ -1,0 +1,17 @@
+timestamp,intervention_type,intervention_detail
+2025-03-14 08:01:00,diaper change,Scheduled diaper change
+2025-03-14 08:01:00,position change,left lateral
+2025-03-14 08:11:00,position change,right lateral
+2025-03-14 09:11:00,imaging,chest X-ray
+2025-03-14 09:41:00,position change,left lateral
+2025-03-14 09:41:00,lab test,blood gas analysis
+2025-03-14 11:01:00,diaper change,Scheduled diaper change
+2025-03-14 11:16:00,position change,supine
+2025-03-14 11:16:00,lab test,electrolyte panel
+2025-03-14 12:01:00,position change,prone
+2025-03-14 12:41:00,family visitation,
+2025-03-14 13:01:00,imaging,abdominal ultrasound
+2025-03-14 14:01:00,diaper change,Scheduled diaper change
+2025-03-14 14:21:00,position change,left lateral
+2025-03-14 14:36:00,position change,supine
+2025-03-14 15:21:00,lab test,blood gas analysis

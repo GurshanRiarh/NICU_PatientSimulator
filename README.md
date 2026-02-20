@@ -126,7 +126,15 @@ The `GAN_Codes` directory contains the training modules and data for the generat
 
 #### Patient Data Generated for the Manuscript
 
-Simulated vital sign and discrete clinical care/intervention events are provided for several simulated patients in the `Datasets` sub-directory.
+Simulated vital sign data and discrete clinical care/intervention events are provided for several simulated patients in the `Datasets` sub-directory.
+
+#### LLM System Prompts for the four NPSS use cases
+
+The Neonatal Patient Status Summarizer (NPSS) was developed and validated using the Simulator. The `System Prompts` sub-directory contains the LLM system prompts for the four use cases:
+- generating empathetic, non-technical updates for parents
+- creating concise handovers for clinicians (shift change, rounds, etc)
+- interactive chat for a clinician to query the patient's data
+- producing structured data for automated charting (EHR)
 
 ---
 
